@@ -6,16 +6,6 @@
     <description>Recent content on Just Julian Power</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2024 20:05:46 -0500</lastBuildDate>
     <atom:link href="https://destructionist.github.io/justjulianpower.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test2</title>
-      <link>https://destructionist.github.io/justjulianpower.github.io/posts/test2/</link>
-      <pubDate>Tue, 13 Feb 2024 20:05:46 -0500</pubDate>
-      <guid>https://destructionist.github.io/justjulianpower.github.io/posts/test2/</guid>
-      <description>this post was made with command:
-hugo new posts/mypost.md
-adding 1 change</description>
-    </item>
   </channel>
 </rss>
